@@ -1,2 +1,3 @@
 ﻿# MIni-PBR-first-project
-<img width="920" height="870" alt="image" src="https://github.com/user-attachments/assets/bc05fda9-43ae-47c4-bf58-6bca1292a372" />
+![Uploading Screenshot 2026-07-30 220358.png…]()
+
