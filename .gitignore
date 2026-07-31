@@ -5,3 +5,8 @@ Release/
 *.user
 *.db
 *.opendb
+/main.cpp
+/shader.frag
+/Shader.h
+/shader.vert
+/Shader.cpp

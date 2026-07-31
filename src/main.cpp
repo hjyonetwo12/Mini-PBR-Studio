@@ -21,7 +21,7 @@ int main() {
 		return -1;
 	}
 	glViewport(0, 0, 800, 600);
-	Shader ourshader("shader.vert", "shader.frag");
+	Shader ourshader("shaders/shader.vert", "shaders/shader.frag");
 	float vertices[] = {
 	-0.5f, -0.5f, 0.0f,
 	 0.5f, -0.5f, 0.0f,
