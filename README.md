@@ -8,6 +8,8 @@
 
  - **[v1.0.0] Task 1.4:**了解基础的轮询和处理用户输入，相机空间，欧拉角相关概念，成功添加鼠标控制功能和键盘移动功能[2026年8月2-4日]
 
+- **[v1.1.0] Task 2.1:**Texture mapping has been implemented[2026年8月6-7日]
 
+- <img width="298" height="240" alt="8月8日" src="https://github.com/user-attachments/assets/d84063fa-63ea-4548-a56a-e8e2a8c96080" />
 
 
