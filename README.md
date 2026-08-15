@@ -12,4 +12,9 @@
 
 - <img width="298" height="240" alt="8月8日" src="https://github.com/user-attachments/assets/d84063fa-63ea-4548-a56a-e8e2a8c96080" />
 
+- **[v1.2.0] Task 2.2:**Implement Phong lighting[2026年8月13-15日]
+
+- <img width="298" height="240" alt="8月15日" src="https://github.com/user-attachments/assets/1848773f-211a-41d5-aa81-19a523deece4" />
+
+
 
