@@ -20,5 +20,8 @@
 - Oh!I almost forgot that I still need to add some new feats:Successfully render a sphere.
 - Congratulations to me.[2026.9.15]
 
+- <img width="304" height="240" alt="9月15日" src="https://github.com/user-attachments/assets/7b55e1e8-619d-4ae3-be11-99dce87e829e" />
+
+
 
 
